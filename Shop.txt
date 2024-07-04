@@ -1,4 +1,4 @@
-WeaponCategories=13:Косметика
+WeaponCategories=13:Cosmetics
 TraderInventory=13:CuteCostumes.BearPickup
 TraderInventory=13:CuteCostumes.DinoPickup
 TraderInventory=13:CuteCostumes.PandaPickup
